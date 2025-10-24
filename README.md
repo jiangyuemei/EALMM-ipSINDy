@@ -1,4 +1,4 @@
-# EAAM-ipSINDy: Ensemble Adaptive Adams-Moulton with Inner-Product Sparse Identification
+# EALMM-ipSINDy: Ensemble Adaptive Libraries and Inner-Product Sparse Regression for Robust Nonlinear Dynamics Discovery
 
 A robust framework for discovering nonlinear dynamical systems from noisy data using ensemble adaptive libraries and Adams-Moulton linear multistep methods.
 
