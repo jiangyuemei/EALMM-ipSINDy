@@ -23,7 +23,7 @@ This method significantly improves upon traditional SINDy and WSINDy approaches 
 
 ## 📋 Requirements
 
-- MATLAB R2020b or later
+- MATLAB R2021a
 - Statistics and Machine Learning Toolbox
 - Optimization Toolbox (recommended)
 
