@@ -16,8 +16,8 @@ This method significantly improves upon traditional SINDy and WSINDy approaches 
 ## 🚀 Features
 
 - **Robust to Noise**: Handles noise levels up to 50% signal-to-noise ratio
-- **Multi-order Support**: Adams-Moulton methods of orders 2-6
-- **Ensemble Processing**: 200+ ensemble realizations for statistical reliability
+- **Multi-order Support**: Adams-Bashforth methods of orders 1-5, Backward Differentiation Formulas of orders 1-5, and Adams-Moulton methods of orders 2-6
+- **Ensemble Processing**: Ensemble realizations for statistical reliability
 - **Adaptive Libraries**: Dynamically constructs optimal feature sets
 - **Cross-validation**: Ensures generalization and prevents overfitting
 
