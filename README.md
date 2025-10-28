@@ -25,7 +25,7 @@ This method significantly improves upon traditional SINDy and WSINDy approaches 
 
 - MATLAB R2021a
 - Statistics and Machine Learning Toolbox
-- Optimization Toolbox (recommended)
+- Optimization Toolbox 
 
 ## 🛠 Installation
 
